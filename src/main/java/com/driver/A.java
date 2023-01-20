@@ -7,8 +7,7 @@ public class A {
 }
 class B extends A{
     public String meth(){
-        B obj=new B();
-        obj.meth();
+       
         return "Method is overridden in Extendend class B";
 
     }
